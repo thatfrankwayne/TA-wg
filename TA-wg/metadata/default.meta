@@ -1,5 +1,0 @@
-# TA-wg
-
-[]
-access = read : [*], write : [admin]
-export = system

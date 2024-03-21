@@ -1,0 +1,5 @@
+# TA-wg
+
+[]
+access = read : [ * ], write : [ admin, sc_admin ]
+export = system
