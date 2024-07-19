@@ -16,7 +16,7 @@ The TA requires a **Linux operating system**.
 The instructions (in Splunkbase) assume that *systemd*, *journald* and *rsyslog* are used on the monitored distribution.
 As of version TA-wg v1.0.0, *journald* is the preferred ingestion vector.
 Splunk version 9.1+ is required for `[journald://]` inputs.
-If your distribution does not use *systemd* or uses a version of Splunk prior to 9.1, check the [installation instructions](https://github.com/thatfrankwayne/TA-wg/wiki/Installation-Instructions) onfor more information.
+If your distribution does not use *systemd* or uses a version of Splunk prior to 9.1, check the [installation instructions](https://github.com/thatfrankwayne/TA-wg/wiki/Installation-Instructions) for more information.
 
 ## Developer
 
